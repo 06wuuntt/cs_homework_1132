@@ -236,7 +236,7 @@ int condition(char *num1, char *num2) {
     return cond;
 }
 
-int main() {
+int main() {    
     char num1[102], num2[102];
     char addresult[102], subresult[102], mulresult[102];
     scanf("%s %s", num1, num2);
