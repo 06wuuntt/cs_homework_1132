@@ -2,7 +2,7 @@
 
 int main() {
     int n;
-    int allscore[3] = {0, 0, 0}, winnum[3] = {0, 0, 0};;
+    int allscore[3] = {0, 0, 0}, winnum[3] = {0, 0, 0};
     char teams[3] = {'A', 'B', 'C'};
     scanf("%d", &n);
     while (n--) {
